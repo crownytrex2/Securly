@@ -1,4 +1,4 @@
-## `5/23/25`
+## `5/24/25`
 # Securly
 to break securly on a chromebook using chrome os go to 
 `chrome://serviceworker-internals`
